@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akjangra4
 - 👀 I’m interested in learning new skills & language 
-- 🌱 I’m currently learning Talent Acquisition
+- 🌱 I’m currently learning Talent Acquisition & java , CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jangraankit490@gmail.com or @jangraankit4 
 
